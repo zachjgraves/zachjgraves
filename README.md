@@ -13,9 +13,7 @@ In my free time, I love to surf, cook, garden, and walk my dog Dood.
 - [LinkedIn](https://www.linkedin.com/in/zgraves1/)
 - [Contact](https://zach-graves.com/contact/)
 
-![headshot](/headshot)
-
-<img src="/headshot" alt="headshot" width="200"/>
+<img src="/headshot" alt="headshot" width="300"/>
 
 <!---
 zachjgraves/zachjgraves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
